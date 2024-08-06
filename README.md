@@ -7,7 +7,7 @@ def hello_world():
     print("Hello, world!")
 ```
 </pre>
-:smile: :rocket: :sparkles:
+🆃🅴🆂🆃 🅲🅰🆂🅴🆂 :rocket: :sparkles:
 
 
 | Test Case ID | Test Description                        | Steps to Execute                                                                        | Expected Outcome                 | Actual Outcome                   | Status |
