@@ -2,10 +2,7 @@
  ![selenium](https://img.shields.io/badge/Selenium-Youtube%20Automation-0281f8) ![Badge](https://img.shields.io/badge/status-active-brightgreen) 
  ### Language used :eyes: : [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/0xfarben/selenium-youtube-automation)](https://github.com/0xfarben/selenium-youtube-automation) 
  ### Demonstration : 
- title: Example product landing page
-product_video: 'https://www.youtube-nocookie.com/embed/URL'
-product_video_transcript: /content/video-transcripts/TRANSCRIPT-TITLE
-\n
+<video src='https://www.youtube.com/watch?v=OWl9p3oFKgg' width=180/>
 █▀ █☰ ▄█▀ ▀█▀ ◖ ▅▀▅ ▄█▀ █☰ ▄█▀ :rocket: :sparkles:
 ### 
 
