@@ -2,16 +2,7 @@
  ![selenium](https://img.shields.io/badge/Selenium-Youtube%20Automation-0281f8) ![Badge](https://img.shields.io/badge/status-active-brightgreen)
 
 <pre>
-```python
-def hello_world():
-    print("Hello, world!")
-```
-</pre>
-🆃🅴🆂🆃 🅲🅰🆂🅴🆂 :rocket: :sparkles:
-T͟E͟S͟T͟ C͟A͟S͟E͟S͟
-🆃Ⓔ🆂Ⓣ Ⓒ🅰Ⓢ🅴Ⓢ
-𝙏̳̎𝙀̳̎𝙎̳̎𝙏̳̎ 𝘾̳̎𝘼̳̎𝙎̳̎𝙀̳̎𝙎̳̎
-▀█▀ █☰ ▄█▀ ▀█▀  ◖ ▅▀▅ ▄█▀ █☰ ▄█▀ 
+▀█▀ █☰ ▄█▀ ▀█▀  ◖ ▅▀▅ ▄█▀ █☰ ▄█▀  :rocket: :sparkles:
 
 
 | Test Case ID | Test Description                        | Steps to Execute                                                                        | Expected Outcome                 | Actual Outcome                   | Status |
