@@ -13,6 +13,15 @@ def hello_world():
 | Row 1    | Data 1   |
 | Row 2    | Data 2   |
 
-| Test Case ID | Test Description              | Steps to Execute                                           | Expected Outcome            | Actual Outcome              | Status |
-|--------------|-------------------------------|------------------------------------------------------------|-----------------------------|-----------------------------|--------|
-| TC01         | Verify homepage loads successfully. | 1. Open browser. <br> 2. Navigate to YouTube URL. | YouTube homepage loads. | YouTube homepage loads. | Pass   |
+| Test Case ID | Test Description                        | Steps to Execute                                                                        | Expected Outcome                 | Actual Outcome                   | Status |
+|--------------|-----------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------|----------------------------------|--------|
+| TC01         | Verify homepage loads successfully.     | 1. Open browser. <br> 2. Navigate to YouTube URL.                                       | YouTube homepage loads.          | YouTube homepage loads.          | Pass   |
+| TC02         | Verify login functionality and dashboard visibility. | 1. Open YouTube. <br> 2. Click login. <br> 3. Enter credentials. <br> 4. Submit login.  | User dashboard is visible.       | User dashboard is visible.       | Pass   |
+| TC03         | Verify search functionality after login. | 1. Open YouTube and login. <br> 2. Enter search query. <br> 3. Click search.             | Search results are displayed.    | Search results are displayed.    | Pass   |
+| TC04         | Verify ad skipping functionality.       | 1. Open YouTube and login. <br> 2. Search video. <br> 3. Play video. <br> 4. Skip ad if any. | Ad is skipped, video plays.      | Ad is skipped, video plays.      | Pass   |
+| TC05         | Verify play/pause functionality.        | 1. Open YouTube and login. <br> 2. Search video. <br> 3. Play video. <br> 4. Skip ad. <br> 5. Play/pause video. | Video can be played/paused.      | Video can be played/paused.      | Pass   |
+| TC06         | Verify like/dislike functionality.      | 1. Open YouTube and login. <br> 2. Search video. <br> 3. Play video. <br> 4. Skip ad. <br> 5. Like/dislike video. | Video is liked/disliked.         | Video is liked/disliked.         | Pass   |
+| TC07         | Verify subscribe functionality.         | 1. Open YouTube and login. <br> 2. Search video. <br> 3. Play video. <br> 4. Skip ad. <br> 5. Subscribe to channel. | Channel is subscribed.           | Channel is subscribed.           | Pass   |
+| TC08         | Verify Share, copy link, close.         | 1. Open YouTube and login. <br> 2. Search video. <br> 3. Play video. <br> 4. Skip ad. <br> 5. Share, copy link, close. | Share Button clicked, link copied, closed the dialog box | Share Button clicked, link copied, closed the dialog box | Pass   |
+| TC09         | Verify comment functionality.           | 1. Open YouTube and login. <br> 2. Search video. <br> 3. Play video. <br> 4. Skip ad. <br> 5. Comment on video. | Comment is posted.               | Comment is posted.               | Pass   |
+
