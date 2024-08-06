@@ -7,3 +7,8 @@ def hello_world():
     print("Hello, world!")
 ```
 </pre>
+:smile: :rocket: :sparkles:
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Row 1    | Data 1   |
+| Row 2    | Data 2   |
