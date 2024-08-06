@@ -19,3 +19,6 @@ COMING SOON
 | TC08         | Verify Share, copy link, close.         | 1. Open YouTube and login. <br> 2. Search video. <br> 3. Play video. <br> 4. Skip ad. <br> 5. Share, copy link, close. | Share Button clicked, link copied, closed the dialog box | Share Button clicked, link copied, closed the dialog box | Pass   |
 | TC09         | Verify comment functionality.           | 1. Open YouTube and login. <br> 2. Search video. <br> 3. Play video. <br> 4. Skip ad. <br> 5. Comment on video. | Comment is posted.               | Comment is posted.               | Pass   |
 
+
+https://github.com/user-attachments/assets/767b5e5f-a15f-4c8d-b6ca-a1fb19ab2114
+
