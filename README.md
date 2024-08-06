@@ -5,6 +5,7 @@
  title: Example product landing page
 product_video: 'https://www.youtube-nocookie.com/embed/URL'
 product_video_transcript: /content/video-transcripts/TRANSCRIPT-TITLE
+\n
 █▀ █☰ ▄█▀ ▀█▀ ◖ ▅▀▅ ▄█▀ █☰ ▄█▀ :rocket: :sparkles:
 ### 
 
