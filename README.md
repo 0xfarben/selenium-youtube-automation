@@ -12,3 +12,7 @@ def hello_world():
 | -------- | -------- |
 | Row 1    | Data 1   |
 | Row 2    | Data 2   |
+
+| Test Case ID | Test Description              | Steps to Execute                                           | Expected Outcome            | Actual Outcome              | Status |
+|--------------|-------------------------------|------------------------------------------------------------|-----------------------------|-----------------------------|--------|
+| TC01         | Verify homepage loads successfully. | 1. Open browser. <br> 2. Navigate to YouTube URL. | YouTube homepage loads. | YouTube homepage loads. | Pass   |
