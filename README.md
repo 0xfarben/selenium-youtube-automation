@@ -2,7 +2,7 @@
  ![selenium](https://img.shields.io/badge/Selenium-Youtube%20Automation-0281f8) ![Badge](https://img.shields.io/badge/status-active-brightgreen)
 
 
-<p style="color:blue;"><center>█▀ █☰ ▄█▀ ▀█▀  ◖ ▅▀▅ ▄█▀ █☰ ▄█▀  :rocket: :sparkles:</center></p>
+<center><p style="color:blue;">█▀ █☰ ▄█▀ ▀█▀  ◖ ▅▀▅ ▄█▀ █☰ ▄█▀  :rocket: :sparkles:</p>:</center>
 
 
 | Test Case ID | Test Description                        | Steps to Execute                                                                        | Expected Outcome                 | Actual Outcome                   | Status |
