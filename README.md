@@ -2,7 +2,7 @@
  ![selenium](https://img.shields.io/badge/Selenium-Youtube%20Automation-0281f8) ![Badge](https://img.shields.io/badge/status-active-brightgreen) 
  ### Language used :eyes: : [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/0xfarben/selenium-youtube-automation)](https://github.com/0xfarben/selenium-youtube-automation) 
  ### Demonstration : 
-<video src='https://www.youtube.com/watch?v=OWl9p3oFKgg' width=180/>
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
  
 █▀ █☰ ▄█▀ ▀█▀ ◖ ▅▀▅ ▄█▀ █☰ ▄█▀ :rocket: :sparkles:
 ### 
