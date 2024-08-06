@@ -3,6 +3,7 @@
  ### Language used :eyes: : [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/0xfarben/selenium-youtube-automation)](https://github.com/0xfarben/selenium-youtube-automation) 
  ### Demonstration : 
 <video src='https://www.youtube.com/watch?v=OWl9p3oFKgg' width=180/>
+ 
 █▀ █☰ ▄█▀ ▀█▀ ◖ ▅▀▅ ▄█▀ █☰ ▄█▀ :rocket: :sparkles:
 ### 
 
