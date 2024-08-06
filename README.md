@@ -2,10 +2,7 @@
  ![selenium](https://img.shields.io/badge/Selenium-Youtube%20Automation-0281f8) ![Badge](https://img.shields.io/badge/status-active-brightgreen)
 
 
-<div style="text-align: center;">
-  <p >█▀ █☰ ▄█▀ ▀█▀ ◖ ▅▀▅ ▄█▀ █☰ ▄█▀ :rocket: :sparkles:</p>
-</div>
-
+█▀ █☰ ▄█▀ ▀█▀ ◖ ▅▀▅ ▄█▀ █☰ ▄█▀ :rocket: :sparkles:
 
 
 
