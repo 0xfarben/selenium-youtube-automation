@@ -19,3 +19,6 @@
 | TC07         | Verify subscribe functionality.         | 1. Open YouTube and login. <br> 2. Search video. <br> 3. Play video. <br> 4. Skip ad. <br> 5. Subscribe to channel. | Channel is subscribed.           | Channel is subscribed.           | Pass   |
 | TC08         | Verify Share, copy link, close.         | 1. Open YouTube and login. <br> 2. Search video. <br> 3. Play video. <br> 4. Skip ad. <br> 5. Share, copy link, close. | Share Button clicked, link copied, closed the dialog box | Share Button clicked, link copied, closed the dialog box | Pass   |
 | TC09         | Verify comment functionality.           | 1. Open YouTube and login. <br> 2. Search video. <br> 3. Play video. <br> 4. Skip ad. <br> 5. Comment on video. | Comment is posted.               | Comment is posted.               | Pass   |
+
+ ### Contributors : 
+https://github.com/thayeeb-9211
