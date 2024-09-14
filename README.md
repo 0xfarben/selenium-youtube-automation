@@ -2,7 +2,7 @@
 <img src="https://iili.io/djy53CB.png"></img>
  ![selenium](https://img.shields.io/badge/Selenium-Youtube%20Automation-0281f8) ![Badge](https://img.shields.io/badge/status-active-brightgreen) 
  ### Language used :eyes: : [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/0xfarben/selenium-youtube-automation)](https://github.com/0xfarben/selenium-youtube-automation) 
- ### Demonstration : <pre>**[Link to the Demonstration Video](https://gemoo.com/tools/upload-video/share/679865018309533696?codeId=PYLbYX3RqOXd4&card=679865013649661952)** </pre>
+ ### Demonstration : <pre>**[![yt-automation-selenium](https://img.youtube.com/vi/LmyJgFCN4RE/0.jpg)](https://www.youtube.com/watch?v=LmyJgFCN4RE)** </pre>
 
 
 
